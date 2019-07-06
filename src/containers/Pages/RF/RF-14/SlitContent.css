@@ -1,0 +1,17 @@
+.custom-btn-lists ul li {
+    display: inline-block;
+    margin: 2px 2px;
+    
+}
+/* .is-active .btn-info {
+    font-weight: bold;
+    color:red!important;
+} */
+.selected {
+    color: forestgreen!important;
+    font-style: italic!important;
+    font-weight: bold!important;
+}
+.btn-info a {
+    color: #fff;
+}
